@@ -1,12 +1,12 @@
-# Aine-MD
+# AryBotz-MD
 
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
 
 Script ini gratis, Jika ketahuan di jual, Script ini akan langsung di hapus.
 Jangan lupa untuk mengikuti github ku
-* My WhatsApp [`Click Here`](https://wa.me/62895330379186?text=Assalamualaikum)
-* My Facebook [`Click Here`](https://facebook.com/ainneboot)
+* My WhatsApp [`Click Here`](https://wa.me/994408465157?text=Assalamualaikum)
+* My Facebook [`Click Here`](https://www.facebook.com/profile.php?id=100076004896927)
 
 ## Heroku Buildpack
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aiinne/Aine-MD)
@@ -221,5 +221,5 @@ Semua yang selalu mendukung
 [![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
 
 
-Best Regards. Aine-MD
+Best Regards. AryBotz-MD
 
