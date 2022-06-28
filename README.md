@@ -30,16 +30,18 @@ Jangan lupa untuk mengikuti github ku
 ## FOR TERMUX/UBUNTU/SSH USER
 
 ```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-apt install imagemagick -y
-git clone https://github.com/Aiinne/Aine-MD
-cd Aine-MD
-pkg install yarn
-yarn
-
+$ apt update && apt upgrade
+$ pkg install bash
+$ pkg install nodejs
+$ pkg install libwebp
+$ pkg install imagemagick
+$ pkg install ffmpeg
+$ termux-setup-storage
+$ apt update && apt upgrade
+$ cd /sdcard
+$ cd ( nama bot )
+$ git clone https://github.com/xdlyy404/node_modules
+$ npm start
 ```
 ---------
 
@@ -66,17 +68,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & AINE-MD ]
 
-```bash
-ubuntu
-curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
-apt install -y nodejs gcc g++ make
-git clone https://github.com/Aiinne/Aine-MD
-cd Aiinne-MD
-npm install
-npm update
-```
 
 ---------
 
