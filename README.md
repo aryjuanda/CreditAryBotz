@@ -79,12 +79,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 * Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
-```bash
-git clone https://github.com/Aiinne/Aine-MD
-cd Aiinne-MD
-npm install
-npm update
-```
+
 
 ---------
 
