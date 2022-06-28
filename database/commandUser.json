@@ -1,0 +1,27 @@
+[
+  {
+    "jid": "994408465157@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#infobot",
+        "count": 1
+      },
+      {
+        "nama": "#donate",
+        "count": 1
+      },
+      {
+        "nama": "#owner",
+        "count": 1
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      }
+    ]
+  }
+]
